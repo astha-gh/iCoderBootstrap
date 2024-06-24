@@ -1,1 +1,1 @@
-<p>This project is made uisng Boootstrap</p>
+<p>This project is made using Boootstrap</p>
